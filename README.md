@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👨🏻‍💻 Mairon Henrique
+## Data Analytics · Business Intelligence · Data Analysis
 
-<!--
-**maironolive/maironolive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional com formação em **Data Analytics** e **Business Intelligence**, atualmente cursando **Ciência de Dados**. Desenvolvo projetos voltados à estruturação, análise e visualização de dados, transformando informações em insights para apoiar decisões e otimizar processos.
 
-Here are some ideas to get you started:
+Tenho **experiência prática** com ETL, modelagem de dados, análises exploratórias e desenvolvimento de dashboards interativos. Destaco projetos de transformação de relatórios estáticos em visualizações dinâmicas de KPIs, proporcionando maior agilidade no monitoramento de indicadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Minha trajetória inclui mais de 15 anos na área da saúde**, com atuação em emergência e liderança de equipes, além da gestão de um e-commerce próprio. Essa experiência fortaleceu minha visão de negócio, capacidade analítica e foco na melhoria contínua e na eficiência operacional.
+
+### 🛠️ Tecnologias e Ferramentas
+**BI e Visualização**: Power BI, DAX, Power Query e Excel.
+**Dados**: SQL, PostgreSQL, ETL e modelagem de dados.
+**Programação e Estatística**: Python, análise exploratória e estatística aplicada.
+**Tecnologias complementares**: Machine Learning, Databricks, GCP e Power Automate.
+
+### 🎓 Formação
+Ciência de Dados — UNIFRAN (2025–2027, em andamento).
+Data Analytics e Business Intelligence — Xperiun (2024–2025).
+Análise de Dados e Ciência de Dados — Preditiva Analytics (2023–2024).
+
+#### 🎓 Formação Complementar
+Especialização em Auditoria em Serviços de Saúde — Faculdade Holística (FAHOL), 2023.
+Especialização em Enfermagem do Trabalho — Faculdade Holística (FAHOL), 2023.
+##### 🏥 Formação Anterior
+Especialização em Auditoria em Enfermagem — Faculdade Venda Nova do Imigrante (FAVENI), 2019.
+Especialização em Enfermagem em Emergência — Centro Universitário de Votuporanga, 2010.
+Bacharelado em Enfermagem (Laurea Acadêmica) — Centro Universitário de Votuporanga, 2007.
+
+### 🚀 Projetos e Portfólio
+Desenvolvo projetos práticos envolvendo análise de dados, dashboards, indicadores de desempenho, ETL e visualização analítica, conectando tecnologia e problemas reais de negócio.
+
+- 📊 [Portfólio no Medium](https://medium.com/@maironhenrique)
+- 📈 [Portfólio Xperiun](https://app.xperiun.com/in/maironhenrique)
+
+### 📫 Contato
+**E-mail**: maironhenrique@hotmail.com
+
+Transformando dados em insights para decisões melhores.
