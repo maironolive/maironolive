@@ -1,8 +1,5 @@
 # 👨🏻‍💻 Mairon Oliveira
-## Data Analytics · Business Intelligence · Data Analysis
-<p align="center">
-  <code>Data Analytics · Business Intelligence · Data Analysis</code>
-</p>
+## <p align="center"> <code>Data Analytics · Business Intelligence · Data Analysis</code></p>
 
 Profissional com formação em **Data Analytics** e **Business Intelligence**, atualmente cursando **Ciência de Dados**. Desenvolvo projetos voltados à estruturação, análise e visualização de dados, transformando informações em insights para apoiar decisões e otimizar processos.
 
