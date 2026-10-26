@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Mairon Oliveira
-## <p align="center"> <code>Data Analytics · Business Intelligence · Data Analysis</code></p>
+## <p align="left"> <code>Data Analytics · Business Intelligence · Data Analysis</code></p>
 
 Profissional com formação em **Data Analytics** e **Business Intelligence**, atualmente cursando **Ciência de Dados**. Desenvolvo projetos voltados à estruturação, análise e visualização de dados, transformando informações em insights para apoiar decisões e otimizar processos.
 
@@ -8,9 +8,9 @@ Tenho **experiência prática** com ETL, modelagem de dados, análises explorat�
 **Minha trajetória inclui mais de 15 anos na área da saúde**, com atuação em emergência e liderança de equipes, além da gestão de um e-commerce próprio. Essa experiência fortaleceu minha visão de negócio, capacidade analítica e foco na melhoria contínua e na eficiência operacional.
 
 ### 🛠️ Tecnologias e Ferramentas
-**BI e Visualização**: Power BI, DAX, Power Query e Excel.
-**Dados**: SQL, PostgreSQL, ETL e modelagem de dados.
-**Programação e Estatística**: Python, análise exploratória e estatística aplicada.
+**BI e Visualização**: Power BI, DAX, Power Query e Excel.  
+**Dados**: SQL, PostgreSQL, ETL e modelagem de dados.  
+**Programação e Estatística**: Python, análise exploratória e estatística aplicada.  
 **Tecnologias complementares**: Machine Learning, Databricks, GCP e Power Automate.
 
 ### 🎓 Formação
