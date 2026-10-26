@@ -16,9 +16,9 @@ Tenho **experiência prática** com ETL, modelagem de dados, análises explorat�
 
 ---
 ### 🎓 Formação
-Ciência de Dados — UNIFRAN (2025–2027, em andamento).  
-Data Analytics e Business Intelligence — Xperiun (2024–2025).  
-Análise de Dados e Ciência de Dados — Preditiva Analytics (2023–2024).
+**Ciência de Dados** — UNIFRAN (2025–2027, em andamento).  
+**Data Analytics e Business Intelligence** — Xperiun (2024–2025).  
+**Análise de Dados e Ciência de Dados** — Preditiva Analytics (2023–2024).
 
 #### 🎓 Formação Complementar
 Especialização em Auditoria em Serviços de Saúde — Faculdade Holística (FAHOL), 2023.  
@@ -38,4 +38,4 @@ Desenvolvo projetos práticos envolvendo análise de dados, dashboards, indicado
 ### 📫 Contato
 **E-mail**: maironhenrique@hotmail.com
 
-<p align="left"> <code>Transformando dados em insights para decisões melhores.</code></p>
+#### <p align="left"> <code>Transformando dados em insights para decisões melhores.</code></p>
