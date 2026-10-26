@@ -9,11 +9,11 @@ Tenho **experiência prática** com ETL, modelagem de dados, análises explorat�
 
 ---
 ### 🛠️ Tecnologias e Ferramentas
-📊**BI e Visualização**: Power BI, DAX, Power Query e Excel.  
-🗄️** Engenharia e Análise de Dados**: SQL, PostgreSQL, ETL e modelagem de dados.  
-🐍**Programação e Estatística**: Python, análise exploratória e estatística aplicada.  
-🤖**Inteligência Artificial e Machine Learning**: fundamentos de aprendizado de máquina, análise preditiva e aplicações orientadas por dados.  
-☁️**Cloud e Automação**: familiaridade com Databricks, GCP e Power Automate.
+📊 **BI e Visualização**: Power BI, DAX, Power Query e Excel.  
+🗄️ **Engenharia e Análise de Dados**: SQL, PostgreSQL, ETL e modelagem de dados.  
+🐍 **Programação e Estatística**: Python, análise exploratória e estatística aplicada.  
+🤖 **Inteligência Artificial e Machine Learning**: fundamentos de aprendizado de máquina, análise preditiva e aplicações orientadas por dados.  
+☁️ **Cloud e Automação**: familiaridade com Databricks, GCP e Power Automate.
 
 ---
 ### 🎓 Formação
@@ -24,7 +24,6 @@ Tenho **experiência prática** com ETL, modelagem de dados, análises explorat�
 #### 🎓 Formação Complementar
 Especialização em Auditoria em Serviços de Saúde — Faculdade Holística (FAHOL), 2023.  
 Especialização em Enfermagem do Trabalho — Faculdade Holística (FAHOL), 2023.
-##### 🏥 Formação Anterior
 Especialização em Auditoria em Enfermagem — Faculdade Venda Nova do Imigrante (FAVENI), 2019.  
 Especialização em Enfermagem em Emergência — Centro Universitário de Votuporanga, 2010.  
 Bacharelado em Enfermagem (Laurea Acadêmica) — Centro Universitário de Votuporanga, 2007.
