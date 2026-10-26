@@ -37,6 +37,6 @@ Desenvolvo projetos práticos envolvendo análise de dados, dashboards, indicado
 ---
 ### 📫 Contato
 **E-mail**: maironhenrique@hotmail.com  
-**LinkedIn**:https://www.linkedin.com/in/maironhenriquedeoliveira
+**LinkedIn**: https://www.linkedin.com/in/maironhenriquedeoliveira
 
 #### <p align="left"> <code>Transformando dados em insights para decisões melhores.</code></p>
