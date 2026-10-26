@@ -36,7 +36,7 @@ Desenvolvo projetos práticos envolvendo análise de dados, dashboards, indicado
 - 📈 [Portfólio com Dashboards](https://app.xperiun.com/in/maironhenrique)
 ---
 ### 📫 Contato
-**E-mail**: maironhenrique@hotmail.com
-[**LinkedIn**:](https://www.linkedin.com/in/maironhenriquedeoliveira)
+**E-mail**: maironhenrique@hotmail.com  
+**LinkedIn**:(https://www.linkedin.com/in/maironhenriquedeoliveira)
 
 #### <p align="left"> <code>Transformando dados em insights para decisões melhores.</code></p>
