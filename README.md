@@ -23,7 +23,7 @@ Tenho **experiência prática** com ETL, modelagem de dados, análises explorat�
 
 #### 🎓 Formação Complementar
 Especialização em Auditoria em Serviços de Saúde — Faculdade Holística (FAHOL), 2023.  
-Especialização em Enfermagem do Trabalho — Faculdade Holística (FAHOL), 2023.
+Especialização em Enfermagem do Trabalho — Faculdade Holística (FAHOL), 2023.  
 Especialização em Auditoria em Enfermagem — Faculdade Venda Nova do Imigrante (FAVENI), 2019.  
 Especialização em Enfermagem em Emergência — Centro Universitário de Votuporanga, 2010.  
 Bacharelado em Enfermagem (Laurea Acadêmica) — Centro Universitário de Votuporanga, 2007.
