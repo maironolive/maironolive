@@ -1,5 +1,8 @@
-# 👨🏻‍💻 Mairon Henrique
+# 👨🏻‍💻 Mairon Oliveira
 ## Data Analytics · Business Intelligence · Data Analysis
+<p align="center">
+  <code>Data Analytics · Business Intelligence · Data Analysis</code>
+</p>
 
 Profissional com formação em **Data Analytics** e **Business Intelligence**, atualmente cursando **Ciência de Dados**. Desenvolvo projetos voltados à estruturação, análise e visualização de dados, transformando informações em insights para apoiar decisões e otimizar processos.
 
@@ -14,23 +17,23 @@ Tenho **experiência prática** com ETL, modelagem de dados, análises explorat�
 **Tecnologias complementares**: Machine Learning, Databricks, GCP e Power Automate.
 
 ### 🎓 Formação
-Ciência de Dados — UNIFRAN (2025–2027, em andamento).
-Data Analytics e Business Intelligence — Xperiun (2024–2025).
+Ciência de Dados — UNIFRAN (2025–2027, em andamento).  
+Data Analytics e Business Intelligence — Xperiun (2024–2025).  
 Análise de Dados e Ciência de Dados — Preditiva Analytics (2023–2024).
 
 #### 🎓 Formação Complementar
-Especialização em Auditoria em Serviços de Saúde — Faculdade Holística (FAHOL), 2023.
+Especialização em Auditoria em Serviços de Saúde — Faculdade Holística (FAHOL), 2023.  
 Especialização em Enfermagem do Trabalho — Faculdade Holística (FAHOL), 2023.
 ##### 🏥 Formação Anterior
-Especialização em Auditoria em Enfermagem — Faculdade Venda Nova do Imigrante (FAVENI), 2019.
-Especialização em Enfermagem em Emergência — Centro Universitário de Votuporanga, 2010.
+Especialização em Auditoria em Enfermagem — Faculdade Venda Nova do Imigrante (FAVENI), 2019.  
+Especialização em Enfermagem em Emergência — Centro Universitário de Votuporanga, 2010.  
 Bacharelado em Enfermagem (Laurea Acadêmica) — Centro Universitário de Votuporanga, 2007.
 
 ### 🚀 Projetos e Portfólio
 Desenvolvo projetos práticos envolvendo análise de dados, dashboards, indicadores de desempenho, ETL e visualização analítica, conectando tecnologia e problemas reais de negócio.
 
-- 📊 [Portfólio no Medium](https://medium.com/@maironhenrique)
-- 📈 [Portfólio Xperiun](https://app.xperiun.com/in/maironhenrique)
+- 📊 [Portfólio com análises no Medium](https://medium.com/@maironhenrique)
+- 📈 [Portfólio com Dashboards](https://app.xperiun.com/in/maironhenrique)
 
 ### 📫 Contato
 **E-mail**: maironhenrique@hotmail.com
