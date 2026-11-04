@@ -12,7 +12,7 @@ Tenho **experiência prática** com ETL, modelagem de dados, análises explorat�
 📊 **BI e Visualização**: Power BI, DAX, Power Query e Excel.  
 🗄️ **Engenharia e Análise de Dados**: SQL, SQL Server, PostgreSQL, ETL e modelagem de dados.  
 🐍 **Programação e Estatística**: Python, análise exploratória e estatística aplicada.  
-🤖 **Inteligência Artificial e Machine Learning**: fundamentos de aprendizado de máquina, análise preditiva e aplicações orientadas por dados.  
+🤖 **Inteligência Artificial e Machine Learning**: LLMs, fundamentos de aprendizado de máquina, análise preditiva e aplicações orientadas por dados.  
 ☁️ **Cloud e Automação**: familiaridade com Databricks, GCP e Power Automate.
 
 ---
